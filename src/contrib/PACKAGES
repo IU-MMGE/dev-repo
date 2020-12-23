@@ -25,3 +25,9 @@ Version: 0.3.0
 Imports: drat, yaml, git2r, htmlTable
 MD5sum: 6ed7cb6b7caea54f29727e577748055e
 NeedsCompilation: no
+
+Package: mmgeRepo
+Version: 0.3.1
+Imports: drat, yaml, git2r, htmlTable
+MD5sum: 4687d2d8d3bdd6586d09215801fde67b
+NeedsCompilation: no
