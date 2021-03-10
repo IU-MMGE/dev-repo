@@ -1,3 +1,10 @@
+Package: IUGBAPI
+Version: 0.1.14
+Imports: httr, jsonlite, base64enc, readr, xml2
+License: GPL-3
+MD5sum: 99e7d9f77a56d316d896ce2081937a9e
+NeedsCompilation: no
+
 Package: mmgeInventory
 Version: 0.0.22
 Depends: R (>= 3.4.1)
